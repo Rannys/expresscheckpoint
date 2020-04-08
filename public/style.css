@@ -1,0 +1,11 @@
+.menu
+{
+display: flex;
+justify-content: space-between;
+text-decoration: none;
+
+}
+
+h2{
+    color: red;
+}
